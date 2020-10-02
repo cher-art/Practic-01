@@ -3,5 +3,4 @@ import css from "./css/style.css";
 const name = 'users'
 const url = `https://jsonplaceholder.typicode.com/${name}`
 
-const xmlReq = new XMLHttpRequest()
-console.log();
+// const xmlReq = new XMLHttpRequest()

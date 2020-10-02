@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/cher-art/Practic-01.git"
   },
-  "homepage": "// тут вставить url GitHub Pages после команды npm run deploy",
+  "homepage": "https://cher-art.github.io/Practic-01/",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",

@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cher-art/Practic-01.git"
+    "url": "git+https://github.com/cher-art/Practic-01"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cher-art/Practic-01.git"
+    "url": "https://github.com/cher-art/Practic-01"
   },
   "homepage": "https://cher-art.github.io/Practic-01/",
   "devDependencies": {
@@ -45,5 +45,9 @@
     "webpack-dev-server": "^3.11.0",
     "webpack-merge": "^5.1.4",
     "webpackbar": "^4.0.0"
+  },
+  "dependencies": {
+    "lodash.debounce": "^4.0.8",
+    "pnotify": "^5.1.2"
   }
 }

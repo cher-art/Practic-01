@@ -1,4 +1,7 @@
 body {
-     color: white;
+     color: green;
      background: black;
+}
+ul {
+     list-style: none;
 }
